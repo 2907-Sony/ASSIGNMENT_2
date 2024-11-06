@@ -20,6 +20,7 @@ void main() {
 			case 1:
 			{
 				printf("\nThe Rectangle has a length of %i and a width of %i\n\n", length, width);
+				printf("test");
 				break;
 			}
 			case 2:
