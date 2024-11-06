@@ -27,6 +27,7 @@ void main() {
 			{
 				int input = getIntInput("Please enter the length of the rectangle:");
 				setLength(input, &length);
+				printf("test");
 				break;
 			}
 			case 3:
